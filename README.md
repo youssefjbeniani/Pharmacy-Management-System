@@ -20,6 +20,6 @@ A pharmacy management application developed using Java, SQLite, and JDBC.
 
 ## Project Report
 
-See [rapport project pharmacie.pdf](./rapport%20project%20pharmacie.pdf) for the project documentation, database design, diagrams, and application screenshots.
+See [rapport project pharmacie.pdf]([./rapport%20project%20pharmacie.pdf](https://github.com/youssefjbeniani/Pharmacy-Management-System/blob/main/rapport%20project%20pahrmacie.pdf)) for the project documentation, database design, diagrams, and application screenshots.
 
 
