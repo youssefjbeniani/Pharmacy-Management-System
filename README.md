@@ -18,6 +18,3 @@ A pharmacy management application developed using Java, SQLite, and JDBC.
 - JDBC
 - DAO / Service / App architecture
 
-## Project Report
-
-See [rapport project pharmacie.pdf](./rapport%20project%20pharmacie.pdf) for the project documentation, database design, diagrams, and application screenshots.
